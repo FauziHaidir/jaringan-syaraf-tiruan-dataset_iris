@@ -9,5 +9,5 @@ model jaringan syaraf tituan dengan menggunakan dataset iris menggunakan data bu
     
     
 Dibuat sebagai tugas Uas Komptusai Cerdas       
-Nama : Fauzi Haidir Abdillah
+Nama : Fauzi Haidir Abdillah        
 Npm  : 1904030100028
