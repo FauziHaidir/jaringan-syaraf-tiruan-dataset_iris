@@ -1,2 +1,2 @@
-# jaringan-syaraf-tiruan-dataset_iris
+# jaringan syaraf tiruan dataset iris
 model jaringan syaraf tituan dengan menggunakan dataset iris
